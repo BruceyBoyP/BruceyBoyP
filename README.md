@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BruceyBoyP
 - 👀 I’m interested in All crypto and creating NFT art
-- 🌱 I’m currently marketing my NFTs for Solana and Polygon networks
+- 🌱 I’m currently marketing my NFTs on Polygon network
 
 
 <!---
